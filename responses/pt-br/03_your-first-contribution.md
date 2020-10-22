@@ -1,10 +1,8 @@
-### Introduction to GitHub flow
+### Introdução ao GitHub flow
 
-Now that you're familiar with issues, let's use this issue to track your path to your first contribution.
-
-People use different workflows to contribute to software projects, but the simplest and most effective way to contribute on GitHub is the GitHub flow.
-
-:tv: [Video: Understanding the GitHub flow](https://www.youtube.com/watch?v=PBI2Rz-ZOxU)
+Agora que você tem familiaridade com as issues, vamos usar esta issue para traçar seu caminho rumo a primeira contribuição.
+Pessoas usam diferentes workflows (fluxos de trabalho) para contribuir em projetos de software, porém o jeito mais simples e eficiente de contribuir no GitHub é o GitHub flow.
+:tv: [Video: Understanding the GitHub flow (Entendendo o GitHub flow)](https://www.youtube.com/watch?v=PBI2Rz-ZOxU)
 
 <hr>
-<h3 align="center">Read below for next steps</h3>
+<h3 align="center">Leia abaixo para os próximos passos</h3>
