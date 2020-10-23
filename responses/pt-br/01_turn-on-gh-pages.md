@@ -1,20 +1,21 @@
-## Step 2: Turn on GitHub Pages
+## Passo 2: Iniciando com GitHub Pages
 
-:tada: You're now the proud manager of this issue! Now that you've assigned yourself, people who drop by know that they're welcome to participate, but you'll be carrying this issue across the finish line. :sunglasses:.
+:tada: Parabéns, você agora é o orgulhoso responsável por essa issue! Já que você se autodesignou para resolver esse issue, as pessoas que passarem pelo projeto saberão que são muito bem-vindas a participar, mas que você é quem resolverá esse problema em especial. :sunglasses:.
 
-### Let's use GitHub Pages
+### Usando GitHub Pages
 
-Now, on to business! GitHub Pages allow you to serve a static site from a repository. We've filled this repository with some site content, but the rendered site isn't visible right now. Let's change that.
+Hora de por a mão na massa! GitHub Pages permite que você hospede sites estáticas a partir de um repositório. Adicionemos algumas páginas de conteúdo ao nosso repositório. 
 
-### :keyboard: Activity: Enable GitHub Pages
+Ainda não é possível acessar nosso site. Vamos dar um jeito nisso.
 
-1. Click on the [**Settings**]({{ repoUrl }}/settings) tab in this repository
-1. Scroll down to the "GitHub Pages" section
-1. From the "Source" drop down, select **master branch**
+### :keyboard: Activity: Ativando o GitHub Pages
 
-> Note: Even though you'll see an option to choose a theme, do not apply a theme at this point. We've protected the code so you can't make unintended changes. You'll have the opportunity to apply a theme when the course is completed. 
+1. Clique na aba [**Settings**]({{ repoUrl }}/settings) (configurações) do repositório.
+1. Role a página até a seção "GitHub Pages".
+2. Na caixa de seleção "Source", selecione **master branch**
 
+> **Atenção:** Mesmo que você veja uma opção para escolher um tema, não selecione nenhum tema neste momento. Protegemos o código para que você não faça alterações indesejadas. Você terá a oportunidade de aplicar um tema quando o curso for concluído.
 <hr>
-<h3 align="center">I'll respond in this issue when I detect GitHub Pages has deployed your site.</h3>
+<h3 align="center">Responderei essa issue assim que dectar que seu site foi publicado no GitHub Pages.</h3>
 
-> Turning on GitHub Pages creates a deployment of your repository. I may take up to a minute to respond as I await the deployment.
+> Ativar o GitHub Pages inicia um processo de publicação no seu repositório. Posso levar até um minuto para responder, enquanto espero o fim da publicação do site.
