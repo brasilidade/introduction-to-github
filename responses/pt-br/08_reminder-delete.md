@@ -1,39 +1,39 @@
-## Nice work
+## Bom trabalho
 
 ![celebrate](https://octodex.github.com/images/collabocats.jpg)
 
-Congratulations @{{ user.username }}, you've completed this course!
+Parabéns @{{ user.username }}, você completou esse curso!
 
-## What went well
+## O que foi bem
 
-Now, you have your slide deck deployed [here]({{ store.pagesUrl }}) and you've gone through the GitHub Flow.
+Agora, você tem seu slide deck desenvolvido [here]({{ store.pagesUrl }}) e você passou pelo GitHub Flow.
 
-Before I say good-bye, here's a recap of all the tasks you've accomplished in your repository:
+Antes de dizer adeus, aqui vai uma recapitulação de todas as tarefas que você realizou nesse repositório:
 
-- You learned about issues, pull requests, and the structure of a GitHub repository
-- You learned about branching
-- You created a commit
-- You viewed and responded to pull request reviews
-- You edited an existing file
-- You enabled GitHub Pages
-- You made your first contribution! :tada:  
+- Você aprendeu sobre issues, pull requests, e a estrutura de um repositório no GitHub.
+- Você aprendeu sobre branching
+- Você criou um commit
+- Você visualizou e respondeu a revisões do pull request
+- Você editou um arquivo existente
+- Você habilitou GitHub Pages
+- Você fez sua primeira contribuição! :tada:  
 
-## Give us feedback
+## Nos dê um retorno
 
-We'd love to hear what you thought of this course. Please share your feedback in [this brief survey](https://www.surveymonkey.com/r/intro-to-github-1).
+Adoraríamos ouvir o que você achou desse curso. Por favor compartilhe seu retorno nesse [nessa pesquisa breve](https://www.surveymonkey.com/r/intro-to-github-1).
 
-## What's next?
+## E em seguida?
 
-We hope this course helped you feel more comfortable using GitHub. Remember: You’re always welcome to repeat course topics if you’d like additional practice. If you’re ready to build on your new skills, here are some ideas.
+Esperamos que esse curso tenha te ajudado a se sentir mais confortável usando GitHub. Lembre: Você é sempre bem vindo a repetir os tópicos desse curso precisar praticar mais. Se você estiver pronto para construir novas habilidades, aqui estão algumas ideias.
 
-### Contribute to a project
+### Contribua com um projeto
 
-To find projects to contribute to through trending topics and curated collections, check out [GitHub Explore](https://github.com/explore).
+Para encontrar projetos para contribuir através de tópicos de tendencias e coleções curadas, veja [GitHub Explore](https://github.com/explore).
 
-### Keep learning
+### Continue aprendendo
 
-Here are some suggestions for future courses you can take:
-- [GitHub Pages]({{ host }}/{{ course.Owner.login }}/github-pages): Continue learning about GitHub Pages, which we touched on in this course.
-- [Communicating using Markdown]({{ host }}/{{ course.Owner.login }}/communicating-using-markdown): We used a little Markdown in this course, but if you want to learn all about this :sparkles: syntax, take the course!
+Aqui estão algumas sugestões de cursos que você pode fazer:
+- [GitHub Pages]({{ host }}/{{ course.Owner.login }}/github-pages): Continue aprendendo sobre GitHub Pages, que vimos nesse curso
+- [Comunicação usando markdown]({{ host }}/{{ course.Owner.login }}/communicating-using-markdown): Nós usamos um pouco de Markdown nesse curso, mas se você quer aprender tudo sobre sua :sparkles: sintaxe, faça o curso!
 
-[What will you learn next]({{ host }}/courses)?
+[O que você vai aprender em seguida]({{ host }}/courses)?

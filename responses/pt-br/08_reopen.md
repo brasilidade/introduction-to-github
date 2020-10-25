@@ -1,9 +1,9 @@
-### :keyboard: Activity: Reopen pull request
+### :keyboard: Atividade: Reabrir pull request
 
-Oooops! It looks like you might have accidentally closed your pull request.
+Oooops! Parece que você pode ter acidentalmente fechado seu pull request.
 
-1. Click **Reopen pull request**. If this button is inactive, you will need to click **Restore branch** first
-1. Merge the pull request.
+1. Clique **Reopen pull request**. Se esse botão está inativo, você precisa clicar **Restore branch** primeiro
+1. Merge o pull request.
 
 <hr>
-<h3 align="center">I'll respond when this pull request is merged.</h3>
+<h3 align="center">Irei responder quando esse pull request for fundido.</h3>
